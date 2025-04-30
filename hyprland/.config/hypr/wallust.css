@@ -1,30 +1,30 @@
 
-foreground         #ECF3F8
-background         #101114
-cursor             #ECF3F8
+foreground         #E3EDF6
+background         #252929
+cursor             #C893A0
 
-active_tab_foreground     #101114
-active_tab_background     #ECF3F8
-inactive_tab_foreground   #ECF3F8
-inactive_tab_background   #101114
+active_tab_foreground     #252929
+active_tab_background     #E3EDF6
+inactive_tab_foreground   #E3EDF6
+inactive_tab_background   #252929
 
-active_border_color   #ECF3F8
-inactive_border_color #101114
-bell_border_color     #3F454E
+active_border_color   #E3EDF6
+inactive_border_color #252929
+bell_border_color     #6D545B
 
-color0      #3A3B3F
-color1		#3F454E
-color2		#4F657C
-color3		#677F94
-color4		#4B86B1
-color5		#6C889E
-color6		#98A5B0
-color7		#DCE5EC
-color8		#9AA0A5
-color9		#414955
-color10		#567492
-color11		#5F84A5
-color12		#3C98DA
-color13		#90B5D2
-color14		#CADCEA
-color15		#DCE5EC
+color0      #505555
+color1		#6D545B
+color2		#9E5A65
+color3		#6C7573
+color4		#998282
+color5		#7B8D98
+color6		#8499AD
+color7		#CFDDEA
+color8		#919BA4
+color9		#7F5D66
+color10		#C06573
+color11		#7D8986
+color12		#AD8A8A
+color13		#7895A7
+color14		#B0CCE6
+color15		#CFDDEA

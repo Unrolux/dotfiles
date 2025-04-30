@@ -3,9 +3,9 @@ gradient = 1
 gradient_count = 6
 
 # TokyoNight Colors
-gradient_color_1 = '#4B86B1'  # Background (Dark Blue)
-gradient_color_2 = '#6C889E'  # Medium Blue
-gradient_color_3 = '#98A5B0'  # Light Blue
-gradient_color_4 = '#DCE5EC'  # Purple
-gradient_color_5 = '#9AA0A5'  # Orange
-gradient_color_6 = '#414955'  # F
+gradient_color_1 = '#998282'  # Background (Dark Blue)
+gradient_color_2 = '#7B8D98'  # Medium Blue
+gradient_color_3 = '#8499AD'  # Light Blue
+gradient_color_4 = '#CFDDEA'  # Purple
+gradient_color_5 = '#919BA4'  # Orange
+gradient_color_6 = '#7F5D66'  # F
